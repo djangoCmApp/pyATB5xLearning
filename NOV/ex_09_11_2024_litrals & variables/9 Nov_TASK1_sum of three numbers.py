@@ -5,7 +5,7 @@ num3 =int(input('enter third num'))
 sum = num1+num2+num3
 sub= num1-num2-num3
 prod =num1*num2*num3
-div =num1/num2/num3
+div =(num1/num2)/num3
 
 
 print ('sum of entered numbers ',sum)
