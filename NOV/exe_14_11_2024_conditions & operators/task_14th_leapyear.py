@@ -6,7 +6,5 @@ if year % 4 ==0 and year % 400 !=100 :
     print('its a leap year')
 elif year % 100 != 0:
     print('its not a leap year')
-else :
-    print('enter valid year')
 
 
